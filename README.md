@@ -7,3 +7,5 @@ Steps
  2. Data Preprocessing: Clean the data by handling missing values, removing duplicates, and converting data types if necessary. Explore the data to identify patterns or anomalies.
  3. Exploratory Data Analysis (EDA): Perform statistical and visual analysis to understand the distribution of sales, popular products, and customer demographics.
 
+Link to my Project : https://colab.research.google.com/drive/19N69OIFzY_7zkpxA2QZ6KLM3Wr3ipOqZ#scrollTo=eAy1LE4WjWRn
+
